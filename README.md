@@ -2,6 +2,7 @@
 Este programa te permite agregar los nombres de tus amigos y sortear aleatoriamente uno de ellos.
 
 <h2>Como usar</h2>
+
 1. Abre el archivo <ins>index.html</ins> en tu navegador web.
 
 2. Escribe un nombre en el campo de texto.
@@ -30,4 +31,4 @@ Este programa te permite agregar los nombres de tus amigos y sortear aleatoriame
 
 - Cuenta de Github para descargar los archivos actualizados y poder ejecutarlos.
   
-- En caso de no querer descargar los archivos, puede ejecutarse online desde github en este enlace.
+- En caso de no querer descargar los archivos, puede ejecutarse online desde github en este [enlace.](https://bot-010704.github.io/Challenge-amigo-secreto-for-aluralatam/)
