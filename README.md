@@ -14,7 +14,7 @@
 
 <h2>Información sobre los Archivos</h2>
 - <ins>index.html</ins> - Es la estructura web en HTML de nuestro programa.
-
+-
 - <ins>app.js</ins> - Es la lógica en JavaScript de nuestro programa.
 - 
 - <ins>style.css</ins> - Son estilos CSS.
@@ -23,9 +23,9 @@
 
 <h2>Requisitos del programa</h2>
 - Contar con un navegador actualizado como Google Chrome, Microsoft Edge, Firefox o cualquier otro navegador moderno.
-
+-
 - No requiere servidor web, funciona directamente desde el explorador de archivos.
-  
+-
 - Cuenta de Github para descargar los archivos actualizados y poder ejecutarlos.
-  
+- 
 - En caso de no querer descargar los archivos, puede ejecutarse online desde github en este enlace.
